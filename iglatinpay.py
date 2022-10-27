@@ -7,3 +7,4 @@ while True:
   text = text[1:]
   letter = letter + 'ay'
   print(text + letter)
+#test
